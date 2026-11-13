@@ -1,0 +1,3 @@
+# Supply-chain safeguard: a package version must be published for at least 1 day (1440 min)
+# before pnpm will install it. Do not lower or remove without Team Lead approval.
+minimumReleaseAge: 1440
